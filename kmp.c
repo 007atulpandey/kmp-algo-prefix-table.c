@@ -4,7 +4,7 @@ int j=0,i=0;
 prefix(p,m);
 while(i<n)
 {
-    if(t[i]==p[i])
+    if(t[i]==p[j])
      { 
         if(j==m-1)
          {
